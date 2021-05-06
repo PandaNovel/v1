@@ -1,4 +1,4 @@
 `{
   "isOpen":true,
-  "sourceUrl":"http://ku.mumuceo.com/d/xYfNM"
+  "sourceUrl":"https://raw.githubusercontent.com/PandaNovel/v1/main/resources/t1.md"
 }`
